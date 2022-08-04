@@ -2,13 +2,13 @@
 
 binormal-distributions is a Python module built using numpy and matplotlib libraries. It is distributed under license by MIT.
 
-This package was created in 2022 as a classroom exercise that has been tested and modified.
+This package was created in 2022 as a personal exercise that has been tested and modified by professional standards.
 
 #files
 
 The package has two parts -
-The Binomial and Gaussian distributions: Both are used to calculate mean; standard deviation; gaussian distribution; binomial distribution of a given data.
-It also visualizes the data using barchart, histogram and calculate probability distribution function as well as plotting histogram-pdf chart
+The Binomial and Gaussian distributions: Both are used to calculate mean; standard deviation; gaussian distribution; and binomial distribution of a given data.
+It also visualizes the data using barchart, histogram and calculate probability density function as well as plotting histogram-pdf chart
 
 #installation
 
