@@ -1,9 +1,9 @@
 from setuptools import setup
 
-setup(name='binormal_distributions',
-      version='1.1',
+setup(name='bgnd_dist',
+      version='1.2',
       description='Binomial and Gaussian distributions',
-      packages=['binormal_distributions'],
+      packages=['bgnd_dist'],
       author='Betini Akarandut',
       author_email='betiniakarandut@gmail.com',
       zip_safe=False)
